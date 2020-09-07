@@ -1,5 +1,7 @@
 # DesuDNS
 
+**Hackathon Note**: Keep in mind desudns.com will continue to be updated separately. To view as delivered, use this repo.
+
 DesuDNS allows anyone, anywhere in the world to register un-revokable domain names on the Bitcoin Cash blockchain. Version 1.0 supports single-file websites hosted using [IPFS](https://ipfs.io) in the formats [markdown](https://guides.github.com/features/mastering-markdown/) and [html](https://www.w3schools.com/html/). 
 
 You can also include other IPFS files by prefixing valid IPFS hashes with `ipfs://` like: `![](ipfs://IPFS_HASH)` for markdown or `<img src="ipfs://IPFS_HASH">` for html.

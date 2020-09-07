@@ -1,4 +1,4 @@
-const __desu__prefix = '0x00474160';
+const __desu__prefix = '0x00444553';
 const __desu__prefix_s = __desu__prefix.split('x')[1];
 const __desu__types = {
     'REGISTER': {
